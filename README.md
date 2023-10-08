@@ -9,6 +9,8 @@ Project Structure
 
     #nris_India.ipynb: This Jupyter Notebook contains the Python code and the step-by-step analysis of the NRIs data.
     #Requirements.txt: Lists the Python libraries and their versions required to run the code.
+    #nris_report: A brief report on the data analysis
+    
 
 #Requirements
 
@@ -34,6 +36,8 @@ Project Goals
     Analyze the NRIs arrivals in India on a monthly basis for the years 2015, 2016, and 2017.
     Visualize trends and patterns in NRIs arrivals using charts and graphs.
     Provide insights into the data, such as seasonal variations and year-over-year comparisons.
+
+    
 
 Feel free to explore and modify the code as needed to gain more insights from the data.
 
