@@ -4,12 +4,12 @@ This project involves an Exploratory Data Analysis (EDA) on NRIs data in India f
 Data Source
 
 The dataset used for this analysis is obtained from the official Indian government data portal data.gov.in. You can download the dataset from this source.
-  #source:https://data.gov.in/resource/month-wise-break-non-residential-indians-nris-arrivals-2015-2017
+  source:https://data.gov.in/resource/month-wise-break-non-residential-indians-nris-arrivals-2015-2017
 Project Structure
 
-    #nris_India.ipynb: This Jupyter Notebook contains the Python code and the step-by-step analysis of the NRIs data.
-    #Requirements.txt: Lists the Python libraries and their versions required to run the code.
-    #nris_report: A brief report on the data analysis
+    nris_India.ipynb: This Jupyter Notebook contains the Python code and the step-by-step analysis of the NRIs data.
+    Requirements.txt: Lists the Python libraries and their versions required to run the code.
+    nris_report: A brief report on the data analysis
     
 
 #Requirements
